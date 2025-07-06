@@ -1,41 +1,235 @@
-<h1 align="center">Hi 👋, I'm Souptik Karan</h1>
-<h3 align="center">A passionate full-stack developer from India with a love for clean code, UI design, and solving real-world problems.</h3>
+# 👨‍💻 Souptik Karan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souptik23&label=Profile%20views&color=0e75b6&style=flat" alt="souptik23" /> </p>
+<div align="center">
+  
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,20:1a1a2e,40:16213e,60:0e4b99,80:2e86de,100:64ffda&height=300&section=header&text=SOUPTIK%20KARAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20%7C%20Building%20the%20Future&descAlignY=55&descSize=20" />
+  
+  <!-- Tech Stack Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=4000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=800&height=100&lines=👨‍💻+Java+%7C+Spring+Boot+%7C+REST+APIs;🛠️+MySQL+%7C+MongoDB+%7C+JPA+%7C+Hibernate;🌐+HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;⚙️+JWT+%7C+Spring+Security+%7C+OAuth2;🧠+Building+AI+Projects+%7C+LLMs+%7C+Gemini+API;📦+Git+%7C+Docker+%7C+CI%2FCD+Workflows;🌍+Learning:+Kubernetes+%7C+Microservices;🚀+Becoming+a+Full+Stack+Java+Dev+🚀" alt="Tech Stack Animation" />
+  
+  <p><em>Building the Future, One Line of Code at a Time</em></p>
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souptik23" alt="souptik23" /></a> </p>
+### 👨‍💻 Developer Profile
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+```javascript
+const souptikKaran = {
+    name: "Souptik Karan",
+    location: "Bhubaneswar, Odisha, India 🇮🇳",
+    role: "Full Stack Developer",
+    experience: "Building digital solutions since 2020",
+    status: "Available for exciting projects",
+    
+    currentFocus: [
+        "🔥 Spring Boot Microservices",
+        "⚛️ React Performance Optimization",
+        "🌐 ASP.NET Core Development",
+        "🐳 Docker & Kubernetes",
+        "🎨 Modern UI/UX Design"
+    ],
+    
+    philosophy: "Clean code, beautiful interfaces, scalable solutions",
+    
+    getMotivation: () => "Turning ideas into reality, one commit at a time"
+};
+```
 
-- 🌱 I’m currently learning **- ASP.NET Core + Clean Architecture - React + Redux Toolkit - Entity Framework Core 8 - Spring Boot Microservices - System Design Basics - DevOps (Docker, GitHub Actions)**
+<div align="center">
+  
+  ### 🎯 What I'm Working On
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Backend-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white" /><br>
+        <strong>Scalable APIs</strong><br>
+        <em>Building robust backend systems</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react&logoColor=white" /><br>
+        <strong>Modern UIs</strong><br>
+        <em>Creating beautiful user experiences</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" /><br>
+        <strong>Cloud Solutions</strong><br>
+        <em>Deploying at scale</em>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [🌐 Portfolio: [souptik23.github.io/portfolio](https://souptik23.github.io/portfolio) *(WIP or personal site)* 💻 GitHub: [github.com/souptik23](https://github.com/souptik23)](🌐 Portfolio: [souptik23.github.io/portfolio](https://souptik23.github.io/portfolio) *(WIP or personal site)* 💻 GitHub: [github.com/souptik23](https://github.com/souptik23))
+### 🌟 My Passions
 
-- 💬 Ask me about **- React, Vue.js, GSAP Animations - Spring Boot & REST APIs - Entity Framework & .NET - Building full-stack apps from scratch**
+<div align="center">
+  
+  🎨 **Creating Stunning Interfaces** | 🏗️ **Building Scalable Systems** | 🎪 **Leading Communities**
+  
+  📸 **Digital Photography** | 🎬 **Content Creation** | 🧠 **Mentoring Developers**
+  
+</div>
 
-- 📫 How to reach me **📧 Email: [souptikkaran23@gmail.com](mailto:souptikkaran23@gmail.com) 📬 LinkedIn: [linkedin.com/in/souptik-karan](https://linkedin.com/in/souptik-karan)**
+---
 
-- ⚡ Fun fact **I think I’m funny until I try to explain a bug to someone 😄 Also, I design, sketch, and lead college fests when I’m not coding 🎨**
+## 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/souptikkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souptikkaran" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/souptik23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="souptik23" height="30" width="40" /></a>
-<a href="https://instagram.com/souptik_karan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souptik_karan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/souptikkaran6573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souptikkaran6573" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/souptikkaran23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souptikkaran23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/souptikkaran23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souptikkaran23" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/souptik_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="souptik_23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/souptikkaran23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souptikkaran23" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/souptikkaran23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="souptikkaran23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/souptikk2kc8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="souptikk2kc8" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **Languages & Frameworks**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souptik23&show_icons=true&locale=en&layout=compact" alt="souptik23" /></p>
+### **Databases & Tools**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souptik23&show_icons=true&locale=en" alt="souptik23" /></p>
+### **Cloud & DevOps**
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souptik23&" alt="souptik23" /></p>
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<br><strong>🍳 ALGORITHM CHEF</strong>
+<br>⭐ Active Problem Solver
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<br><strong>⚡ CODE WARRIOR</strong>
+<br>🏅 Problem Conquerer
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<br><strong>🔥 LOGIC MASTER</strong>
+<br>🎯 Contest Participant
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<br><strong>💻 SKILL VALIDATOR</strong>
+<br>🌟 Certified Expert
+</td>
+</tr>
+</table>
+
+### 📈 Coding Statistics
+<img src="https://leetcard.jacoblin.cool/souptikkaran23?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souptik23&theme=react-dark&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+<!-- Comprehensive Stats Dashboard -->
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=souptik23&show_icons=true&theme=react&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souptik23&theme=react&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&border=30363D" alt="Streak Stats" />
+</td>
+</tr>
+</table>
+
+<!-- Language Distribution -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souptik23&layout=compact&theme=react&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🔗 [E-Commerce Platform](https://github.com/souptik23/ecommerce-platform)
+**Tech Stack:** Spring Boot, React.js, MySQL, JWT, Docker
+- Full-stack e-commerce solution with microservices architecture
+- Secure payment integration and real-time inventory management
+- Deployed on AWS with CI/CD pipeline
+
+### 🔗 [AI-Powered Chat Application](https://github.com/souptik23/ai-chat-app)
+**Tech Stack:** Spring Boot, React.js, MongoDB, Gemini API, WebSocket
+- Real-time chat application with AI-powered responses
+- Advanced natural language processing capabilities
+- Scalable architecture supporting thousands of concurrent users
+
+### 🔗 [Task Management System](https://github.com/souptik23/task-manager)
+**Tech Stack:** Spring Security, React.js, PostgreSQL, Docker
+- Collaborative project management tool
+- Advanced authentication and authorization
+- Real-time notifications and team collaboration features
+
+</div>
+
+---
+
+## 🌟 Current Focus
+
+<div align="center">
+  
+  🔍 **Learning:** Kubernetes & Cloud-Native Architecture
+  
+  🏗️ **Building:** Next-Gen Microservices Platform
+  
+  🤖 **Exploring:** Advanced AI Integration Patterns
+  
+  📚 **Studying:** System Design & Scalability Patterns
+  
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souptik-karan)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souptik23)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souptik.karan@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=About.me&logoColor=black)](https://souptik-portfolio.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Souptik%20Karan" alt="Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=souptik23&color=64ffda&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>⭐ Thanks for visiting my profile! ⭐</h3>
+  <p><em>Feel free to explore my repositories and don't hesitate to reach out for collaborations!</em></p>
+</div>
