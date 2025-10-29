@@ -132,7 +132,7 @@ const souptikKaran = {
 </table>
 
 ### 📈 Coding Statistics
-<img src="https://leetcard.jacoblin.cool/souptikkaran23?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/souptikkaran_23?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" />
 
 </div>
 
