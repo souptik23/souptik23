@@ -1,6 +1,6 @@
 <!-- SOUPTIK KARAN - INTERACTIVE GITHUB PROFILE README -->
 <!-- Author: Souptik Karan | Theme: Animated, Developer-Centric, Recruiter-Focused -->
-
+<!--
 # 💫 **Souptik Karan — Full Stack Java Developer**
 
 <div align="center">
@@ -11,74 +11,182 @@
 
 </div>
 
----
+-->
+<!-- 🧑‍💻 Souptik Karan - Interactive Developer GitHub Profile -->
+
+# 💫 **Souptik Karan — Full Stack Java Developer**
+
+
 
 ## 👨‍💻 **About Me**
 
-> 💡 Passionate **Full Stack Java Developer** specialized in backend architecture, scalable APIs, and intelligent AI-driven applications.  
-> 🧠 Experienced in **Spring Boot**, **React**, **Microservices**, and **Gemini API** integration.  
-> 🌍 Based in Bhubaneswar, India — building innovative digital systems that scale globally.
+> 💡 **Full Stack Java Developer** focused on building clean, scalable, and intelligent applications that blend strong backend logic with smooth user experiences.  
+> ⚙️ Skilled in **Spring Boot**, **React**, **Microservices**, and **AI Integrations (Gemini API, Spring AI)**.  
+> 🌍 Based in *Bhubaneswar, India* — passionate about crafting solutions that make technology simple, powerful, and human.
 
 ---
 
 <div align="center">
   
-| 💼 **Current Focus** | 🧠 **Learning Next** | 🧩 **Philosophy** |
-|:--------------------:|:-------------------:|:----------------:|
-| Microservices & Cloud Deployments | Kubernetes & DevSecOps | “Clean code, beautiful interfaces, scalable systems.” |
+| 🎯 **Focus** | 🧠 **Learning** | 💬 **Motto** |
+|:-------------:|:---------------:|:------------:|
+| Scalable Backends & Cloud Deployments | Kubernetes · System Design · DevSecOps | “Code. Create. Evolve.” |
 
 </div>
 
+---
 ---
 
 ## ⚙️ **Tech Stack**
 
 <div align="center">
-  
+
+💻 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+⚙️ **Backend & Frameworks**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-00BFA6?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-4CAF50?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-005C84?style=for-the-badge&logo=hibernate&logoColor=white)
+
+---
+
+🎨 **Frontend & UI**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+🗄️ **Databases & Security**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C8DBC?style=for-the-badge&logo=auth0&logoColor=white)
+
+---
+
+🧠 **AI & Integrations**  
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GPT API](https://img.shields.io/badge/GPT_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![WebFlux](https://img.shields.io/badge/Spring_WebFlux-4CAF50?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+🛠️ **Tools & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
 ---
+
+
+<!---
 
 ## 🎬 **Interactive Developer Dashboard**
 
 <div align="center">
 
-<!-- Activity Graph -->
+<!-- Activity Graph --
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souptik23&theme=react-dark&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
-<!-- GitHub Stats with Motion -->
+<!-- GitHub Stats with Motion --
 <img src="https://github-readme-stats.vercel.app/api?username=souptik23&show_icons=true&theme=react&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=souptik23&theme=react&background=0D1117&currStreakNum=64FFDA&sideLabels=64FFDA&fire=64FFDA&ring=64FFDA&hide_border=true" width="48%" />
 
-<!-- Language Motion Pie -->
+<!-- Language Motion Pie --
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souptik23&layout=compact&theme=react&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&border_color=30363D&langs_count=8" width="55%" />
+
+</div>
+
+-->
+
+## 🚀 **Featured Projects**
+---
+
+### 🧠 **AI Help Desk System**
+**Tech Stack:** `Spring Boot` · `Spring AI` · `React` · `MariaDB` · `Ollama` · `Gemini API`
+
+> 🤖 A scalable, AI-powered help desk platform integrating multi-model LLMs for automated ticketing, summarization, and smart responses.  
+> 💬 Built with RAG (Retrieval-Augmented Generation), vector DB context memory, and real-time model streaming.
+
+<div align="center">
+  
+[![GitHub Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souptik23/ai-chat-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-64FFDA?style=for-the-badge&logo=vercel&logoColor=black)](https://curious-liger-24bdbd.netlify.app)
+[![Backend](https://img.shields.io/badge/Spring_Boot_API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+### 🔗 **Chhotu — URL Shortener & Analytics Platform**
+**Tech Stack:** `Spring Boot` · `React` · `Docker` · `MySQL`
+
+> 📦 A production-grade full-stack URL shortener with analytics dashboards, affiliate tracking, and JWT-secured endpoints.  
+> 🧭 Built a responsive dashboard using Chart.js + Recharts with Dockerized backend for cloud deployment.
+
+<div align="center">
+  
+[![GitHub Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souptik23/ecommerce-platform)
+[![Live Site](https://img.shields.io/badge/Frontend_(Netlify)-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://fantastic-blancmange-d06759.netlify.app)
+[![Backend Render](https://img.shields.io/badge/Backend_(Render)-46A2F1?style=for-the-badge&logo=render&logoColor=white)]()
+
+</div>
+
+---
+
+### ✉️ **Lekhoni — AI Email Assistant**
+**Tech Stack:** `Spring Boot` · `React` · `Gemini API` · `Chrome Extension`
+
+> 📨 Cross-platform AI assistant for Gmail that crafts smart, context-aware replies using Gemini API and WebFlux.  
+> ⚙️ Features include real-time streaming responses, secure JWT communication, and a Material UI-based interface.
+
+<div align="center">
+  
+[![GitHub Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souptik23/task-manager)
+[![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]()
+[![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
+
+</div>
+
+---
+
+### 🧰 **Other Notable Works**
+
+| 🪄 Project | 💻 Tech Stack | ✨ Highlights |
+|------------|---------------|----------------|
+| **AI-Powered Chat App** | Spring Boot · WebSocket · React | Real-time LLM-integrated chat with conversation memory |
+| **Food Delivery WebApp** | Spring Boot · React · Stripe | Payment integration, dynamic menus, and JWT authentication |
+| **Bookstore API** | Spring Boot · JPA · MySQL | REST API for book management with pagination and optimistic locking |
+| **CRM Desktop App (WIP)** | JavaFX · Spring Boot · MySQL | Customer record management and analytics for electrical goods business |
+
+</div>
+
+---
 
 <div align="center">
 
-| 🔗 Project | ⚙️ Tech Stack | 🧠 Highlights |
-|------------|---------------|----------------|
-| **[AI Help Desk System](https://github.com/souptik23/ai-chat-app)** | Spring Boot · React · Ollama · Gemini API | Intelligent ticket system with RAG & LLM streaming |
-| **[Chhotu — URL Shortener](https://github.com/souptik23/ecommerce-platform)** | Spring Boot · MySQL · React · Docker | Short links + Analytics + JWT secured APIs |
-| **[Lekhoni — AI Email Assistant](https://github.com/souptik23/task-manager)** | Spring Boot · React · Gemini API | Chrome extension that generates smart email replies |
+> 🧭 _“Each project taught me how to merge strong backend foundations with intuitive, delightful user experiences.”_
 
 </div>
+
 
 ---
 
@@ -87,51 +195,53 @@
 🎨 Creative Lead @ Kraftovity Art & Craft Society, KIIT  
 🎪 Organizer @ KIIT Fest & E-Summit  
 🤝 Team Collaboration · Leadership · Mentorship  
-💬 Fluent in English | Passionate about Tech + Art Fusion  
 
 ---
 
-## 📬 **Connect With Me**
+## 📬 **Let’s Connect**
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souptik-karan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souptik23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souptikkaran23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=About.me&logoColor=black)](https://fantastic-blancmange-d06759.netlify.app)
+
+
+### 🌐 **Find Me Online**
+
+<div align="center" style="margin-top: 20px;">
+
+<a href="https://linkedin.com/in/souptik-karan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/souptik23" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:souptikkaran23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://fantastic-blancmange-d06759.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+</a>
+
+<a href="https://sites.google.com/view/souptikkaran" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Site-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Google Site"/>
+</a>
 
 </div>
 
 ---
 
+### 💬 **Let’s Collaborate!**
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Souptik%20Karan" width="80%" />
+🎯 *“I love transforming ideas into impactful products — whether it’s backend logic, AI integration, or sleek UI.”*  
+💡 Reach out for collaborations, internships, or freelance opportunities.  
 
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=souptik23&color=64ffda&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />  
-<img src="https://img.shields.io/github/followers/souptik23?label=Followers&style=for-the-badge&color=2e86de" />  
-<img src="https://img.shields.io/github/stars/souptik23?label=Stars&style=for-the-badge&color=64ffda" />
 
-</div>
 
----
-
-## 🌀 **Fun Animation**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
-
-</div>
-
----
-
-<div align="center">
-  <h3>⭐ “Turning ideas into reality, one commit at a time.” ⭐</h3>
-</div>
