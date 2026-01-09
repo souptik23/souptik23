@@ -35,6 +35,29 @@
 </div>
 
 ---
+
+### 📄 **Resume**
+
+<details>
+<summary><b>Click here to view full resume summary</b></summary>
+
+**Professional Summary**
+Final-year Computer Science student at KIIT University (CGPA: 8.4) focused on backend engineering, Java, Spring Boot, and scalable systems.
+
+**Technical Skills**
+* **Languages/Back-end:** Java, JavaScript, SQL, Spring Boot, Spring AI
+* **Front-end:** React, Thymeleaf, TailwindCSS
+* **Security & Databases:** Spring Security, JWT, OAuth2, MySQL, JPA
+* **Tools:** Docker, Git, JUnit, Postman
+
+**Key Projects**
+* **Lekhoni:** AI Email Assistant using Spring Boot & Gemini API.
+* **Chhotu:** URL Shortener & Analytics platform with JWT and Docker.
+* **Smart Contact Manager:** Secure system with OAuth2 and AWS/Cloudinary integration.
+
+[**Click here to view the full Resume document**](https://drive.google.com/file/d/1egYBI9VxRKRPLwJwJrSDCPrwW6KxqvXi/view?usp=sharing)
+</details>
+
 ---
 
 ## ⚙️ **Tech Stack**
